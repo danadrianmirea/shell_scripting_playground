@@ -1,1 +1,1 @@
-"# shell_scripting_playground" 
+A repo where I store shell scripts ( powershell, bash, or others )
